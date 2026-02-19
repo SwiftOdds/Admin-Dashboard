@@ -1,0 +1,10 @@
+swiftodds-admin/
+├── src/
+│   ├── pages/
+│   │   ├── Dashboard.tsx
+│   │   ├── Bets.tsx
+│   │   └── Users.tsx
+│   ├── App.tsx
+│   └── main.tsx
+├── package.json
+└── index.html
